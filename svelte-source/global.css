@@ -1,0 +1,28 @@
+/* Theme colors. */
+:root {
+  /* --ps-hud-primary: #03f0b5; */
+  --ps-hud-primary: #bd87ee;
+  --ps-hud-primary-hover: #F69AFF;
+  --ps-hud-secondary: #444444;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background-color: rgba(60, 60, 60, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  overflow: hidden;
+}
+
+hr {
+  opacity: 0.3;
+}
