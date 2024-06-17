@@ -23,4 +23,4 @@
 * **Configure the script to your liking in the config.lua**
 
 # Different Styles
-![Presentation](https://github.com/CandrexDev/cc-hud/assets/62235410/3bd2c4eb-5591-4dd0-a37e-22bb81deadb2)
+![Presentation](https://github.com/CandrexDev/cc-hud/assets/62235410/d280f779-ec6d-4a55-a36a-3e9a05530850)
