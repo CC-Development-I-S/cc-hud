@@ -14,3 +14,5 @@
 * **Remove your current HUD script (qb-hud, ps-hud etc.)**
 * **Drag and drop cc-hud into your designated resources folder**
 * **Configure the script to your liking in the config.lua**
+
+![Presentation](https://github.com/CandrexDev/cc-hud/assets/62235410/3bd2c4eb-5591-4dd0-a37e-22bb81deadb2)
