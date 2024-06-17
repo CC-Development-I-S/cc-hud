@@ -3,6 +3,7 @@
 # CC HUD (cc-hud)
 * Tebex: https://ccdev.tebex.io/
 * Discord: https://discord.gg/N5ut9BYkSK
+* Showcase: https://youtu.be/2SeTixG6Lak
 
 # Features
 * 9 Unique Preset Designs
