@@ -5,12 +5,12 @@ author 'CC'
 description 'CC HUD Script'
 version '1.0.1'
 
-shared_scripts {
-	'@qb-core/shared/locale.lua',
-	'locales/en.lua',
-	'locales/*.lua',
-	'config.lua',
-	'uiconfig.lua'
+ox_lib 'locale'
+
+shared_scripts { 
+	'@ox_lib/init.lua', 
+	'config.lua', 
+	'uiconfig.lua' 
 }
 
 client_script 'client.lua'
@@ -19,7 +19,8 @@ server_script 'server.lua'
 ui_page 'html/index.html'
 
 files {
-	'html/*',
+    'html/*',
+    'locales/*.json'
 }
 
 lua54 'yes'
