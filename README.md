@@ -27,4 +27,4 @@
 ![Presentation](https://github.com/CandrexDev/cc-hud/assets/62235410/d280f779-ec6d-4a55-a36a-3e9a05530850)
 
 # Credits
-Thanks to [Silent](https://github.com/S1lentcodes) for help with Svelte
+- Thanks to [Silent](https://github.com/S1lentcodes) for help with Svelte
